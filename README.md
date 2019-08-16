@@ -3,7 +3,7 @@
 1. check the version of Chrome that you've installed on your system. You can find your version by clicking the three little dots on the top right of your browser > **Help** > **About Google Chrome**
 It should look like this 
 
-[chrome version](https://github.com/drosophila/vocabulary.com_scrapper/blob/master/docs/_static/chrome_version.PNG)
+![chrome version](https://github.com/drosophila/vocabulary.com_scrapper/blob/master/docs/_static/chrome_version.PNG)
 
 2. depending on your Chrome version and your OS go the ChromeDriver [Downloads](https://chromedriver.chromium.org/downloads) page and download the **.zip** file   
 
